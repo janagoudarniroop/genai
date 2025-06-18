@@ -66,6 +66,8 @@ Paste your JSON input like:
  Future Enhancements
 🌐 OAuth integration with Strava & Garmin for fitness tracking
 
+![Diagram 1](./images/garmin-api.jpeg)
+![Diagram 2](./images/strava-api.jpeg)
 📈 Smartwatch syncing for real-time workout adjustment
 
 📊 Web-based dashboard to view and download training plans
